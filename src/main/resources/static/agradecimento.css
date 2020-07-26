@@ -1,0 +1,32 @@
+h1 {
+    font-family:'Fredericka the Great', cursive;
+    color: rgb(161, 44, 197);
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(215, 163, 231);
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+img {
+    height: 75%;
+    width: 50%;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.linkone {
+    font-family: 'Raleway', sans-serif;
+}
+
+.linktwo {
+    font-family: 'Raleway', sans-serif;
+}

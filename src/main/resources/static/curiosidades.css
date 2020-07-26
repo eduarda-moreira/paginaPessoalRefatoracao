@@ -1,0 +1,71 @@
+.capaimg{
+    height:"50%"; 
+    width:100%;
+}
+
+h1 {
+
+    font-family: 'Bungee Inline', cursive;
+    color: rgb(224, 198, 210);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    color: rgb(101, 93, 219);
+    font-family: 'Fredericka the Great', cursive;
+    background-color:black;
+}
+
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    text-align: justify;
+    color: rgb(198, 144, 235)
+
+}
+
+img {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.linkone {
+    font-family: 'Raleway', sans-serif;
+    color: cyan;
+    padding-bottom: 50px;
+    margin-bottom: 200px;
+}
+
+.linktwo {
+    font-family: 'Raleway', sans-serif;
+    color: cyan;
+    padding-bottom: 50px;
+    margin-bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.imagemdois {
+    height: 30%;
+    width: 15%; 
+    text-align:left;
+    appearance: 50;
+*/
+
+
